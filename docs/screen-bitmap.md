@@ -1,6 +1,6 @@
 # screen Bitmap
 
-Get a bitmap of everything displayed on the screen.
+TEST Get a bitmap of everything displayed on the screen.
 
 ```sig
 bitmap.screenBitmap()
